@@ -36,7 +36,7 @@ lines = [
 ]
 
 player = mpv.MPV()
-alarm_sound = '/home/user/Scaricati/Tesla Low Battery Sound [Free Download].mp3'
+alarm_sound = 'sound.mp3'
 player.loop = 'yes'
 
 number_of_lines = len(lines)
